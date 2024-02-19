@@ -44,9 +44,11 @@ To run the project, simply open the WeatherPy.ipynb and VacationPy.ipynb file in
 
 The project generates various visualizations and statistical analyses, including:
 
--- Scatter plots of temperature, humidity, wind speed, and cloudiness versus latitude.
--- Linear regressions to analyze the relationship between latitude and meteorological variables.
--- Maps showing the location of the analyzed cities and weather information.
+- Scatter plots of temperature, humidity, wind speed, and cloudiness versus latitude.
+
+- Linear regressions to analyze the relationship between latitude and meteorological variables.
+
+- Maps showing the location of the analyzed cities and weather information.
 
 # References
 
